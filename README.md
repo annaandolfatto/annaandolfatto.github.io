@@ -1,2 +1,2 @@
-Source code of annaandolfatto.com
----------------------------------
+Source code of annaandolfatto.com website
+-----------------------------------------
